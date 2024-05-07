@@ -1,10 +1,14 @@
 {
   "files": {
-    "main.js": "/barrera_final_react_app/static/js/main.f18d5bf2.js",
+    "main.css": "/barrera_final_react_app/static/css/main.1e8453c1.css",
+    "main.js": "/barrera_final_react_app/static/js/main.8e06013f.js",
+    "static/media/SampleDataset.csv": "/barrera_final_react_app/static/media/SampleDataset.1a13c1758e940941af06.csv",
     "index.html": "/barrera_final_react_app/index.html",
-    "main.f18d5bf2.js.map": "/barrera_final_react_app/static/js/main.f18d5bf2.js.map"
+    "main.1e8453c1.css.map": "/barrera_final_react_app/static/css/main.1e8453c1.css.map",
+    "main.8e06013f.js.map": "/barrera_final_react_app/static/js/main.8e06013f.js.map"
   },
   "entrypoints": [
-    "static/js/main.f18d5bf2.js"
+    "static/css/main.1e8453c1.css",
+    "static/js/main.8e06013f.js"
   ]
 }
